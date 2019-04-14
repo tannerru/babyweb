@@ -1,0 +1,50 @@
+#title{
+  background-color:#fff6be;
+}
+
+
+h1{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color:black;
+}
+
+.container-fluid{
+  padding:6.7% 15%;
+}
+
+#countdown{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color:black;
+}
+
+
+a{
+  color:black;
+  font-family: "Montserrat";
+  font-size: 2rem;
+}
+
+.navbar-brand{
+  font-size: 2rem;
+}
+
+/* Meet Us Section Start */
+.couple{
+  float: left;
+  margin:0px auto 10px 10px;
+}
+
+p{
+  padding:100px;
+}
+
+#our-story{
+  background-color: #b7fbff;
+}
+/* Meet Us Section End */
