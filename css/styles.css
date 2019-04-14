@@ -1,0 +1,24 @@
+#title{
+  background-color:#fff6be;
+}
+
+
+h1{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color:black;
+}
+
+.container-fluid{
+  padding:10% 15%;
+}
+
+#countdown{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color:black;
+}
